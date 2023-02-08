@@ -14,7 +14,6 @@ Want to know more about me? [Check out my website.](https://nicehalf.com)
 ## &#x1f4c8; GitHub Stats
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/bablilayoub">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bablilayoub&show_icons=true" alt="Martin's GitHub Stats" />
 </a>
