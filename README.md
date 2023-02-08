@@ -39,8 +39,6 @@ Want to know more about me? [Check out my website.](https://nicehalf.com)
 
 ## 📣 How can you contact me?
 
-> You can contact me through my official website or through fiverr
+> You can contact me through my official website
 >
 > [My Website](https://nicehalf.com)<br>
-
-> [My Fiverr Profile](https://fiverr.com/bablilayoub)
