@@ -24,7 +24,7 @@ Want to know more about me? [Check out my website.](https://nicehalf.com)
 
 <br>
 
-[![<abablil>'s 42 stats](https://badge.mediaplus.ma/levi/abablil)](https://github.com/oakoudad/badge42)
+[![<abablil>'s 42 stats](https://badge.mediaplus.ma/greenbinary/abablil)](https://github.com/oakoudad/badge42)
   
 <br>
 
