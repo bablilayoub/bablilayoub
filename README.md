@@ -17,6 +17,7 @@ Want to know more about me? [Check out my website.](https://nicehalf.com)
 <a href="https://github.com/bablilayoub">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bablilayoub&show_icons=true" alt="Martin's GitHub Stats" />
 </a>
+[![<abablil>'s 42 stats](https://badge.mediaplus.ma/darkblue/abablil)](https://github.com/oakoudad/badge42)
 
 <br>
 
