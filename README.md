@@ -11,6 +11,14 @@ Hello, my name is Ayoub and I am a seasoned full-stack developer with over eight
 
 Want to know more about me? [Check out my website.](https://nicehalf.com)
 
+## &#x1f4c8; 42 Stats
+
+<br>
+
+[![<abablil>'s 42 stats](https://badge.mediaplus.ma/greenbinary/abablil)](https://github.com/oakoudad/badge42)
+  
+<br>
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
@@ -20,13 +28,6 @@ Want to know more about me? [Check out my website.](https://nicehalf.com)
 
 <br>
 
-## &#x1f4c8; 42 Stats
-
-<br>
-
-[![<abablil>'s 42 stats](https://badge.mediaplus.ma/greenbinary/abablil)](https://github.com/oakoudad/badge42)
-  
-<br>
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/language-Php-informational?style=for-the-badge&logo=php&logoColor=white&color=1950f7)
