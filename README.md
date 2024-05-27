@@ -77,10 +77,10 @@ class About extends Me
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/bablilayoub">
-  <img height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bablilayoub&show_icons=true&theme=tokyonight&card_width=500">
+  <img height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bablilayoub&show_icons=true&theme=tokyonight&card_width=300">
 </a>
 <a href="https://github.com/bablilayoub">
-  <img height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bablilayoub&layout=compact&theme=tokyonight&card_width=425">
+  <img height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bablilayoub&layout=compact&theme=tokyonight&card_width=300">
 
 </a>
 
