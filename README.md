@@ -1,52 +1,96 @@
 [![Ayoub's GitHub Banner](./assets/banner.png)](https://nicehalf.com)
 
-[![Visits Badge](https://api.visitorbadge.io/api/visitors?path=bablilayoub&countColor=%232ccce4&style=flat)](https://nicehalf.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/bablilayoub)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bablilayoub/)
+## 👋 Hi there
 
+```php
+<?php
 
-Hey there 👋
+namespace Ayoub;
 
-Hello, my name is Ayoub and I am a seasoned full-stack developer with over eight years of experience. I have expertise in eight programming languages and possess a strong passion for programming. I am always excited to work with new clients and help them bring their ideas to life using my programming skills. I believe in collaborating closely with my clients to ensure that they are fully satisfied with the end product. I am committed to delivering excellent results and I assure you that I will do a great job for you. Let's work together to showcase your brand to the world.
+class About extends Me
+{
+    public function getInformation(): array
+    {
+        return [
+            'full_name' => 'Ayoub Bablil',
+            'position' => 'Full Stack Developer',
+            'age' => 23,
+            'school' => [
+                'name' => '1337 Coding School',
+                'branch' => 'Software Engineering',
+                'country' => 'Morocco',
+                'city' => 'Khouribga',
+            ],
+            'university' => [
+                'name' => 'Sidi Mohamed Ben Abdellah University',
+                'branch' => 'English Studies',
+                'country' => 'Morocco',
+                'city' => 'Fez',
+            ],
+            'email' => 'ayoub@abablil.me',
+            'website' => 'https://abablil.me',
+        ];
+    }
 
-Want to know more about me? [Check out my website.](https://abablil.me)
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Html::class,
+            Css::class,
+            Js::class,
+            Jquery::class,
+            NodeJs::class,
+            ReactNative::class,
+            Bootstrap::class,
+            Tailwind::class,
+            Mysql::class,
+            Php::class,
+            C::class,
+            Cpp::class,
+            Laravel::class,
+            Git::class,
+            Github::class,
+            Linux::class,
+            VsCode::class,
+            Postman::class,
+            Aws::class,
+            Azure::class,
+            Figma::class
+        ];
+    }
 
-## &#x1f4c8; 42 Stats
+    public function getFutureGoals(): array
+    {
+        return [
+            'Contribute to Open Source projects',
+            'Learn more about Artificial Intelligence',
+            'Build a startup',
+            'Travel around the world',
+        ];
+    }
+}
+```
 
-<br>
-
-[![<abablil>'s 42 stats](https://badge.mediaplus.ma/greenbinary/abablil)](https://github.com/oakoudad/badge42)
-  
-<br>
+## 💼 Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,react,bootstrap,tailwind,mysql,php,c,cpp,laravel,git,github,linux,vscode,postman,aws,azure,figma&c=5&bg=1&tc=1)](https://abablil.me)
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
 <a href="https://github.com/bablilayoub">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bablilayoub&show_icons=true" alt="Martin's GitHub Stats" />
+  <img height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bablilayoub&show_icons=true&theme=tokyonight&card_width=500">
 </a>
-
-<br>
-
-
-## 💼 Skills
-![](https://img.shields.io/badge/language-Php-informational?style=for-the-badge&logo=php&logoColor=white&color=1950f7)
-![](https://img.shields.io/badge/language-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=f7df1e)
-![](https://img.shields.io/badge/language-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=256D7B)
-![](https://img.shields.io/badge/language-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=5474FD)
-![](https://img.shields.io/badge/language-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=EDF1ED)
-![](https://img.shields.io/badge/language-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=B73F07)
-![](https://img.shields.io/badge/language-Json-informational?style=for-the-badge&logo=json&logoColor=white&color=B6CDD7)
-![](https://img.shields.io/badge/language-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=472B9E)
-
-
 <a href="https://github.com/bablilayoub">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bablilayoub" />
+  <img height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bablilayoub&layout=compact&theme=tokyonight&card_width=425">
+
 </a>
 
 
 ## 📣 How can you contact me?
 
-> You can contact me through my official website
->
-> [My Website](https://abablil.me)<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bablilayoub)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bablil_ayoub/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thexdayoub)
+[![Website](https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abablil.me)
+
+## ❤️ Quote of the day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)
