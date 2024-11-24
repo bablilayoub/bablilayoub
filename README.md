@@ -91,6 +91,3 @@ class About extends Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bablil_ayoub/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thexdayoub)
 [![Website](https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abablil.me)
-
-## ❤️ Quote of the day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)
